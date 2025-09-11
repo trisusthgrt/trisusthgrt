@@ -19,10 +19,6 @@
 - Automated **audit logging** and **encrypted PDF exports**, reducing manual documentation by 30%.
 - Built a **role-based E-Learning Platform in Angular 19**, improving learner engagement and reducing admin workload by 25%.
 
-### 🏢 PixelCompute Technologies — Full Stack Developer Intern (Jan 2025 – Mar 2025)
-- Built and deployed a **MEAN stack** web app with 99.9% cross-browser compatibility, reducing load time by 15%.
-- Integrated **REST APIs** between Angular UI and Node.js backend, cutting API response time by 20%.
-
 ---
 
 ## 💻 Technical Skills
