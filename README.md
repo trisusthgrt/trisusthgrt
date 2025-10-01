@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushobhan Tripathy</h1>
-<h3 align="center">Full-Stack Developer | Java & C++ Enthusiast | Spring Boot & Angular Learner</h3>
+<h3 align="center">MERN Developer | Java & C++ Enthusiast | Spring Boot & Angular Learner</h3>
 
 ---
 
@@ -24,7 +24,7 @@
 ## 💻 Technical Skills
 
 **Languages:** Java, C++, SQL, JavaScript, HTML, CSS  
-**Frameworks & Tools:** Spring Boot, Angular, Node.js, Express.js, REST APIs, Socket.io  
+**Frameworks & Tools:** Spring Boot , React , Next.js, Angular, Node.js, Express.js, REST APIs, Socket.io  
 **Databases:** MySQL, MongoDB  
 **Practices:** OOP, DSA, Agile/Scrum, Git/GitHub, CI/CD, Unit Testing
 
