@@ -14,7 +14,7 @@
 
 ## 💼 Internship Experience
 
-### 🏢 HashedIn by Deloitte — Software Development Intern (Jul 2025 – Present)
+### 🏢 HashedIn by Deloitte — Software Development Intern (Jul 2025 – Sep 2025)
 - Engineered a Clinical Workflow Platform in **Spring Boot** with **JWT & RBAC**, eliminating unauthorized access incidents.
 - Automated **audit logging** and **encrypted PDF exports**, reducing manual documentation by 30%.
 - Built a **role-based E-Learning Platform in Angular 19**, improving learner engagement and reducing admin workload by 25%.
